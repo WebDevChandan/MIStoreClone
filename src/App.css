@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-indicators {
+    margin: 10px 0px;
+}
+
+.carousel-indicators button {
+    width: 20px;
+    padding: 0px 15px;
+    border: 1px solid #fff;
+    background: white;
+    margin: 0px 5px;
+}
